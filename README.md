@@ -1,5 +1,5 @@
 # Hi there! Welcome !👋
-I'm Ahsan Khan, a software developer with over 1 years of experience in web applications. I'm truly passionate about writing neat, efficient code that gives users a great experience. I'm always in search of new challenges, challenges are my strength.
+I'm Ahsan Khan, a seasoned software developer specializing in web applications, boasting over a year of hands-on experience. My zeal lies in crafting tidy, high-performing code that enhances user experiences. I thrive on tackling fresh challenges; they fuel my growth and drive.
 
 ## Skills 🚀
 <h4>👨‍💻 Programming and Markup Languages</h4>
@@ -43,8 +43,7 @@ I'm Ahsan Khan, a software developer with over 1 years of experience in web appl
 </details>
 
 ## Education 🎓
-* Bachelor's degree in Computer Science
-* Courses: Machine Learning, AI, Web3, and Metaverse.
+* Courses: Machine Learning, AI and Metaverse.
 <br>Feel free to reach out if you're interested in collaborating on projects or if you have any question.
 
 ## Contact 📫
